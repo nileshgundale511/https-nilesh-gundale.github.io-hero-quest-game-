@@ -1,2 +1,14 @@
-# https-nilesh-gundale.github.io-hero-quest-game-
-Hero Quest is an adventurous and action-packed platformer game that puts players in control of the daring Hero X, who embarks on a journey to overcome various obstacles and defeat enemies. In this thrilling adv, the player must navigate through dynamic levels, each presenting unique challenges and traps that test reflexes and problem-solving abilit
+
+# Hero Quest
+
+**Hero Quest** एक साधा पण मजेदार HTML5 ब्राउझर गेम आहे ज्यामध्ये तुम्ही Hero ला उडी मारायला आणि अडथळ्यांपासून वाचवायला मदत करता.
+
+## वैशिष्ट्ये:
+- स्पेस बटण वापरून Hero ला उडी मारवता येते
+- मोबाइल किंवा डेस्कटॉप ब्राउझरवर सहज चालतो
+- HTML + JavaScript वापरून बनवलेला आहे
+
+## GitHub Pages साठी:
+हा प्रोजेक्ट GitHub Pages वर होस्ट करता येतो. फक्त `main` ब्रँचमध्ये फाईल्स ठेवा आणि Pages चालू करा.
+
+**Game सुरू करण्यासाठी:** browser मध्ये `index.html` फाईल उघडा.
